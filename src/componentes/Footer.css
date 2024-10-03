@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    color: #FFD580;
+    border-top: 3px solid #FFD580;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    border-bottom: 0;         
+    margin-top: auto;
+}
+
+.footer h1 {
+    font-weight: bold;
+    padding: 10px;
+    margin: 0;             
+}

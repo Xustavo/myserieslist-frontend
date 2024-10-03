@@ -1,0 +1,16 @@
+.menubar-container {
+    display: flex; 
+}
+
+
+/* .retirar-borda-direita > button , .retirar-todas-as-bordas > button{
+    border-top-right-radius: unset !important;
+    border-bottom-right-radius:unset !important;
+    border-right: unset !important;
+}
+
+.retirar-borda-esquerda > button, .retirar-todas-as-bordas > button {
+    border-top-left-radius: unset !important;
+    border-bottom-left-radius:unset !important;
+    border-left: unset !important;
+} */

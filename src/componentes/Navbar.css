@@ -1,0 +1,39 @@
+.nav {
+    width: 100%;
+    display: flex;
+    border-bottom: 3px solid #FFD580;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0.5em 1em;
+    font-size: 20px;
+}
+
+.search {
+    display: flex;
+    max-width: 10%;
+    background-color: #808080;
+    color: #FFD580;
+    gap: 4px;
+}
+
+.search input {
+    border: 2px solid #FFD580;
+}
+
+.search input::placeholder{
+    color: #FFD580;
+}
+
+.nav h1 {
+    color: #FFD580;
+    font-weight: bold;
+}
+
+.icons {
+    display: flex;
+    color: #FFD580;
+    border: 5px;
+    font-size: 24px;
+    gap: 10px;
+} 
