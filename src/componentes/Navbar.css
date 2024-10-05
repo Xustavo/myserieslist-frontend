@@ -9,22 +9,6 @@
     font-size: 20px;
 }
 
-.search {
-    display: flex;
-    max-width: 10%;
-    background-color: #808080;
-    color: #FFD580;
-    gap: 4px;
-}
-
-.search input {
-    border: 2px solid #FFD580;
-}
-
-.search input::placeholder{
-    color: #FFD580;
-}
-
 .nav h1 {
     color: #FFD580;
     font-weight: bold;

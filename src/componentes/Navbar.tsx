@@ -1,10 +1,6 @@
 import "./Navbar.css"
 
-//shadcn components
-import { Input } from "../components/ui/input"
-
 //icons
-import { BsSearch } from "react-icons/bs";
 import { FaUserAlt } from "react-icons/fa";
 import { IoMdMail } from "react-icons/io";
 import { FaBell } from "react-icons/fa";
@@ -19,10 +15,6 @@ function Navbar() {
     return(
         <div className="nav">
             <h1><button onClick={() => navigate("/")}>MySeriesList</button></h1>
-            <div className="search">
-                <button><BsSearch /></button>
-                <Input placeholder="pesquisar"/>
-            </div>
             <div className="icons">
                 <button><FaBell /></button>
                 <button><IoMdMail /></button>

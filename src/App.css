@@ -1,7 +1,7 @@
 .App {
     display: flex;
     flex-direction: column;
-    padding-right: 4em;
-    padding-left: 4em;
+    padding-right: 15em;
+    padding-left: 15em;
     height: 100%;
 }
